@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.0%Foundation-1.0">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vaish/Downloads/gson-2.9.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vaish/Downloads/jackson-annotations-2.9.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vaish/Downloads/jackson-core-2.9.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vaish/Downloads/jackson-databind-2.9.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vaish/OneDrive/Documents/testng/jcommander-1.69.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/vaish/.p2/pool/plugins/org.testng_7.8.0.r202306071539.jar" sourcepath="C:/Users/vaish/.p2/pool/plugins/org.testng.source_7.8.0.r202306071539.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vaish/.m2/repository/io/rest-assured/json-path/5.3.0/json-path-5.3.0.jar" sourcepath="C:/Users/vaish/.m2/repository/io/rest-assured/json-path/5.3.0/json-path-5.3.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="io.rest-assured"/>
+			<attribute name="maven.artifactId" value="json-path"/>
+			<attribute name="maven.version" value="5.3.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vaish/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar" sourcepath="C:/Users/vaish/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.checkerframework"/>
+			<attribute name="maven.artifactId" value="checker-qual"/>
+			<attribute name="maven.version" value="3.12.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
